@@ -1,3 +1,8 @@
+layout: page
+title: "amzn"
+permalink: /amzn/
+
+
 # AMZN
 
 ## Products & Services
